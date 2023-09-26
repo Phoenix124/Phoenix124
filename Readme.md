@@ -5,7 +5,6 @@
 <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" alt="groovy"/>
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" alt="python" />
-<img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/gopher-dance.gif" width="40" height="40" alt="golang" />
 
 ![Profile views](https://gpvc.arturio.dev/Phoenix124)
 
