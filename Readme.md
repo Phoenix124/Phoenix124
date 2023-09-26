@@ -41,7 +41,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://a.slack-edge.com/80588/img/services/travis_512.png" alt="travis" width="40" height="40"/>
-<img src="https://secrethub.io/img/gitlab-ci.png" alt="gitlab ci/cd" width="40" height="40"/>
 <img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
