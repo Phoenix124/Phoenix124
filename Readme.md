@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" alt="groovy"/>
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" alt="python" />
 
-![Profile views](https://komarev.com/ghpvc/?username=Phoenix124)
+![Profile views](https://komarev.com/ghpvc/?username=Phoenix124&color=green)
 
 <picture>
   <source
